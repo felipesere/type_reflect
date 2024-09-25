@@ -1,5 +1,4 @@
 // #![allow(incomplete_features)]
-// #![feature(specialization)]
 #![macro_use]
 
 mod parsing;
